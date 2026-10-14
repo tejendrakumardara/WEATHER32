@@ -6,11 +6,11 @@ const $ = (id) => document.getElementById(id);
 let currentWeather = null;
 let currentForecast = null;
 let currentPlace = {
-  name: "Hyderabad",
-  admin: "Telangana",
+  name: "Gudur",
+  admin: "Andhrapradesh",
   country: "India",
-  latitude: 17.385,
-  longitude: 78.4867,
+  latitude: 14.1463,
+  longitude: 79.8504,
   timezone: "Asia/Kolkata"
 };
 
