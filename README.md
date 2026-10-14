@@ -180,3 +180,4 @@ Available features depend on the implemented code.
 Location search depends on the accuracy of the entered place name and geocoding results.
 
 
+
